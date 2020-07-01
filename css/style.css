@@ -169,7 +169,7 @@
 }
 
 .grid__element-4--newphoto {
-    background-image: url(/images/kimono.jpg);
+    background-image: url("../images/kimono.jpg");
     background-size: cover;
 }
 
